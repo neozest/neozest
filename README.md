@@ -4,7 +4,7 @@ Currently Working for Smilegate, Awesome entertainment group based on South Kore
 Worked for Game Industry, Mobile industry, Network Integration industry
  - NCSoft West (Platform Division, US office): Game Industry
  - Blizzard Entertainment(Battle.Net, HQ office, US) : Game Industry
- - Namo Interactive(HQ R&D, Korea) : Web Authoring Tool, Handtory(PDA web scrapping tool), Web Site Builder, SearchEngine for Enterprise
+ - Namo Interactive(HQ R&D, Korea) : Web Authoring Tool, Handstory(PDA web scrapping tool), Web Site Builder, SearchEngine for Enterprise
  - Innet : Web based Network Monitoring System, Packet Analyzer
 
 I'm using c++ and python mainly for profit and fun.
