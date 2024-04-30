@@ -1,7 +1,8 @@
 👋 Hi, This is Juho Lee. My nick is neo+zest. 'Neo' means 'a new and different form of something that existed in the past' and 'Zest' means 'Passion, 	lively excitement; a feeling of enjoyment and enthusiasm' from Merriam-Webster's.
 
-Currently Working for Smilegate, Awesome entertainment group based on South Korea.(especially game.. LostArk, EpicSeven....)
+Currently Working for Medistream, An innovator of Korean/Oriental Medicine Industry 
 Worked for Game Industry, Mobile industry, Network Integration industry
+ - Smilegate, Awesome entertainment group based on South Korea.(especially game.. LostArk, EpicSeven....)
  - NCSoft West (Platform Division, US office): Game Industry
  - Blizzard Entertainment(Battle.Net, HQ office, US) : Game Industry
  - Namo Interactive(HQ R&D, Korea) : Web Authoring Tool, Handstory(PDA web scrapping tool), Web Site Builder, SearchEngine for Enterprise
